@@ -32,7 +32,9 @@ vi) Sequence Diagram
 
 ### ACTIVITY DIAGRAM
 
-<img width="422" height="774" alt="image" src="https://github.com/user-attachments/assets/c8bd74d0-1178-4ef6-b699-5a725245de21" />
+<img width="683" height="898" alt="image" src="https://github.com/user-attachments/assets/ee93b629-1d6c-479e-9eea-c1417a446021" />
+<img width="684" height="992" alt="image" src="https://github.com/user-attachments/assets/019d6d1c-f08a-402d-9533-650f776a7665" />
+
 
 
 ### COMMUNICATION DIAGRAM
